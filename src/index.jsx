@@ -1,6 +1,3 @@
-/** react.js version
-* a component for a react component to show percentage circle
-**/
 import * as React from 'react';
 
 class ReactjsPercentageCircle extends React.Component {
