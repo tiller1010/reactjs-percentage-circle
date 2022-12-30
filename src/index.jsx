@@ -114,16 +114,6 @@ class ReactjsPercentageCircle extends React.Component {
   }
 }
 
-ReactjsPercentageCircle.propTypes = {
-  color: React.PropTypes.string,
-  bgcolor: React.PropTypes.string,
-  innerColor: React.PropTypes.string,
-  radius: React.PropTypes.number,
-  percent: React.PropTypes.number,
-  borderWidth: React.PropTypes.number,
-  textStyle: React.PropTypes.string,
-};
-
 ReactjsPercentageCircle.defaultProps = {
   color: '#000',
   radius: 20,
