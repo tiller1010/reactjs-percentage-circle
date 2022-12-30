@@ -8,7 +8,7 @@
     "spinner",
     "circle"
   ],
-  "main": "src/index.js",
+  "main": "src/index.jsx",
   "repository": {
     "url": "https://github.com/JackPu/react-percentage-circle.git",
     "type": "git"

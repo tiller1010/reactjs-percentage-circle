@@ -1,9 +1,9 @@
 /** react.js version
 * a component for a react component to show percentage circle
 **/
-import React, { Component } from 'react';
+import * as React from 'react';
 
-class ReactjsPercentageCircle extends Component {
+class ReactjsPercentageCircle extends React.Component {
   constructor(props) {
     super(props);
     const percent = props.percent;
