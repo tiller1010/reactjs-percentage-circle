@@ -59,9 +59,5 @@
     "watchify": "^3.7.0",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.16.2"
-  },
-  "engines": {
-    "node": ">=6.0.0",
-    "npm": "~3.3.6"
   }
 }
